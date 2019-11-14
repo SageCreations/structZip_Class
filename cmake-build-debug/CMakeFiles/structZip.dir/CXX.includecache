@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/realq/CLionProjects/structZip/sorting.cpp
+sorting.h
+C:/Users/realq/CLionProjects/structZip/sorting.h
+iostream
+-
+iomanip
+-
+cstring
+-
+
+C:/Users/realq/CLionProjects/structZip/sorting.h
+
